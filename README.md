@@ -22,6 +22,9 @@
 <p align="justify">
 Sigurd is a research-oriented malware sample, specifically a Remote Access Trojan (RAT), used to support digital forensics, incident response training, and CTF-style forensic challenges. It appeared in the ITSEC Asia Cyber Security SUMMIT CTF event. The first known sample of Sigurd was submitted to <a href="https://www.virustotal.com/gui/file/a8ed9231b4128d5aa006daa27034e30f0c2c59ca4b1211b33da63e142e504f91/detection" target="_blank">VirusTotal</a> by CTF participants, which may be relevant to analysts studying its behavior.</p>
 
+<img width="1418" height="1001" alt="image" src="https://github.com/user-attachments/assets/f18e180e-2e1f-4334-b6d0-040a23420ce2" />
+
+
 ## [📃] High-level (Non-Actionable) Summary
 
 <p align="justify">For defensive analysts and instructors, the artifact demonstrates patterns commonly seen in threats and red-team tooling, including (descriptive only):</p>
