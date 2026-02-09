@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" alt="sgrd" src="https://github.com/user-attachments/assets/ba092f06-34b4-43c2-be16-533a0d688b6d" />
+  <img width="300" alt="sgrd" src="sigrd.png" />
 </p>
 
 
